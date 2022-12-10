@@ -1,5 +1,7 @@
 ### About the project
 
+Di tengah padatnya kesibukan,seringkali masyarakat melupakan akan kesehatannya sendiri. Banyaknya kegiatan mengharuskan mereka untuk fokus terhadap kegiatan tersebut dan lupa bahwa tubuh  juga perlu bergerak  agar tetap fit dan bugar.Oleh karena itu, dibuat aplikasi untuk membantu masyarakat dalam mencukupi kebutuhan hidup sehat dan olahraga.
+
 ![home](https://user-images.githubusercontent.com/119150796/206412108-d81c9ff2-9f29-4a93-8e79-d6cfe1420970.png)
 ![trainers](https://user-images.githubusercontent.com/119150796/206412124-7988de7a-5f42-48ed-b546-014717b990c9.png)
 ![match teams](https://user-images.githubusercontent.com/119150796/206412114-6e3c8a6d-1999-442b-9b07-90dc219e36c7.png)
